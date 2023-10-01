@@ -1,3 +1,4 @@
+//program to calculate the area of acircle
 #include<stdio.h>
 int main(){
     int r;// radius of circle 
